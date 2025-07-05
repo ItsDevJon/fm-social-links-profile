@@ -10,5 +10,5 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://itsdevjon.github.io/fm-social-links-profile/)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-using-tailwindcss-HVtMtxC4Sq](https://www.frontendmentor.io/solutions/social-links-profile-using-tailwindcss-HVtMtxC4Sq)
+- Live Site URL: [https://itsdevjon.github.io/fm-social-links-profile/](https://itsdevjon.github.io/fm-social-links-profile/)
